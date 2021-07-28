@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.name{
+    margin-right: 35px;
+}
+.age{
+    margin-right: 46px;
+}
+.prof{
+    margin-right: 5px;
+}
+.formGroup {
+    margin-bottom: 6px;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
